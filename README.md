@@ -1,2 +1,2 @@
 # AESEncrypt_project
-Ruby project for AES encryption with Base64 encoding
+Ruby project for AES-CFB encryption with Base64 encoding
